@@ -1,3 +1,3 @@
 # reports
 
-Phone randomly crashes when launching spkpure and protonmail software.
+Phone randomly crashes when launching apkpure and protonmail software.
